@@ -1,5 +1,5 @@
 #!/bin/bash
-ls
+sudo apt-get install -y g++
 g++ generate.cpp -o generate
 chmod u=x generate
 ./generate
