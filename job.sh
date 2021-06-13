@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 g++ generate.cpp -o generate
 chmod u=x generate
